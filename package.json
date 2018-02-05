@@ -1,0 +1,19 @@
+{
+  "name": "health-tracker-bitbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitbar": "^0.3.0",
+    "dotenv": "^5.0.0",
+    "firebase": "^3.6.4",
+    "moment": "^2.20.1",
+    "moment-timezone": "^0.5.14"
+  }
+}
